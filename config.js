@@ -1,8 +1,8 @@
 const str = require( './strings.js' );
 
 const config = {
-    TELEGRAM_BOT_TOKEN: 'HIDDEN',
-    OPENWEATHER_TOKEN: 'HIDDEN',
+    TELEGRAM_BOT_TOKEN: 'hidden by ayush',
+    OPENWEATHER_TOKEN: 'hidden by ayush',
     SQLITE_DB_PATH: 'C:\Users\lenovo\Downloads\weather-bot-master\weather-bot\db\db.js',
     REQUIRED_PARAMS: 4,
     PREDICTION_NUMBER: 6,
